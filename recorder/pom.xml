@@ -54,6 +54,7 @@
                 <version>1.0-SNAPSHOT</version>
                 <configuration>
                     <file>c:/windows/system32/UIAutomationCore.dll</file>
+                    <guid>{944DE083-8FB8-45CF-BCB7-C477ACB2F897}</guid>
                 </configuration>
             </plugin>
         </plugins>
