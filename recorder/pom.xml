@@ -84,7 +84,7 @@
 
         <dependency>
             <groupId>eu.doppel_helix.jna.tlbcodegenerator</groupId>
-            <artifactId>uia</artifactId>
+            <artifactId>UIAutomationCore</artifactId>
             <version>1.0</version>
         </dependency>
     </dependencies>
