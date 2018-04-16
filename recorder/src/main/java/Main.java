@@ -8,14 +8,7 @@ import org.slf4j.LoggerFactory;
 public class Main {
     public static void main(String[] args) {
         initializeLogger();
-            UI_Automator automator = new UI_Automator();
-        try {
-            automator.generateAutomationTree();
-        } catch (PatternNotFoundException e) {
-            e.printStackTrace();
-        } catch (AutomationException e) {
-            e.printStackTrace();
-        }
+        UI_Automator automator = new UI_Automator();
     }
 
     private static void initializeLogger(){
