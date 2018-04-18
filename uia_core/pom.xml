@@ -10,6 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
+    <groupId>UI_Recorder</groupId>
     <artifactId>uia_core</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>uia_core</name>
