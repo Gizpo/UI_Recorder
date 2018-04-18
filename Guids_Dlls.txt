@@ -1,0 +1,10 @@
+{944DE083-8FB8-45CF-BCB7-C477ACB2F897}  1       0       uiautomationclient      UIAutomationClient
+
+{930299ce-9965-4dec-b0f4-a54848d4b667}  1       0       uia     UIAutomationCore
+
+{EA39B853-5769-4937-8ECE-736DE4F469BC}  1       0       uiautomationblockingcorelib     UIAutomationCoreRes
+
+{8acc2016-04a3-4343-b8e1-1870e35d6a41}  1       0       uiautomationcrossbitnesshooklib UIAutomation CrossBitnessHook 1.0 Type Library
+
+
+C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\WPF\UIAutomationProvider.dll
