@@ -1,7 +1,10 @@
 
 /**
- * UIAutomationClient
- * <p>uuid({944DE083-8FB8-45CF-BCB7-C477ACB2F897})</p>
+ * UIAutomationBlockingCoreLib
+ *
+ * <p>UIAutomation BlockingCore 1.0 Type Library</p>
+ *
+ * <p>uuid({EA39B853-5769-4937-8ECE-736DE4F469BC})</p>
  * <p>version(1.0)</p>
  */
 package UI_Recorder.uia;
