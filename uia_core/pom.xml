@@ -11,10 +11,10 @@
     </parent>
 
     <groupId>UI_Recorder</groupId>
-    <artifactId>uia_coreres</artifactId>
+    <artifactId>uia</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>uia_coreres</name>
+    <name>uia</name>
 
     <build>
         <plugins>
@@ -48,7 +48,7 @@
                 <groupId>eu.doppel_helix.jna.tlbcodegenerator</groupId>
                 <artifactId>TlbCodeGenerator</artifactId>
                 <configuration>
-                    <guid>{EA39B853-5769-4937-8ECE-736DE4F469BC}</guid>
+                    <guid>{930299ce-9965-4dec-b0f4-a54848d4b667}</guid>
                 </configuration>
                 <version>1.0-SNAPSHOT</version>
             </plugin>
