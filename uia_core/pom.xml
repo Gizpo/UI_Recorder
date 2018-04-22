@@ -29,7 +29,6 @@
     </build>
 
     <dependencies>
-        <!-- Logger -->
         <dependency>
             <groupId>UI_Recorder</groupId>
             <artifactId>stdole</artifactId>
