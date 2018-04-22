@@ -1,0 +1,14 @@
+UI_Recorder\stdole\IPictureDisp.class
+UI_Recorder\stdole\LoadPictureConstants.class
+UI_Recorder\stdole\OLE_TRISTATE.class
+UI_Recorder\stdole\FontEvents.class
+UI_Recorder\stdole\FontEventsListener.class
+UI_Recorder\stdole\FontEventsListenerHandler.class
+UI_Recorder\stdole\IFontEventsDisp.class
+UI_Recorder\stdole\StdPicture.class
+UI_Recorder\stdole\Font.class
+UI_Recorder\stdole\IFontDisp.class
+UI_Recorder\stdole\StdFont.class
+UI_Recorder\stdole\IFontEventsDispListener.class
+UI_Recorder\stdole\IFontEventsDispListenerHandler.class
+UI_Recorder\stdole\Picture.class
