@@ -7,3 +7,4 @@
 {8acc2016-04a3-4343-b8e1-1870e35d6a41}  1       0       uiautomationcrossbitnesshooklib UIAutomation CrossBitnessHook 1.0 Type Library
 
 stdole 2.0 {00020430-0000-0000-C000-000000000046}
+clientPriv 1.0 {6271895B-E67F-B68B-BF74ACE07753}
