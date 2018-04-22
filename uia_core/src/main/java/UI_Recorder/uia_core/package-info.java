@@ -1,7 +1,7 @@
 
 /**
- * UIAutomationClient
- * <p>uuid({944DE083-8FB8-45CF-BCB7-C477ACB2F897})</p>
+ * UIAutomationClientPriv
+ * <p>uuid({6271895B-E67F-4DEE-B68B-BF74ACE07753})</p>
  * <p>version(1.0)</p>
  */
 package UI_Recorder.uia_core;
